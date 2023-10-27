@@ -7,7 +7,7 @@ const StyledDiv = styled.div`
 	width: 100%;
 	height: 3rem;
 	background-color: ${(props) => (props.color ? props.color : "black")};
-	border-radius: 1rem;
+	border-radius: 0.5rem;
 	& img {
 		width: 1.25rem;
 	}
