@@ -30,13 +30,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](../public/images/Desktop.png)
+![screen](public/images/Desktop.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Miller1999/ResultsSummaryComponent)
+- Live Site URL: [Live Site](https://results-summary-component-delta-puce.vercel.app/)
 
 ## My process
 
@@ -65,7 +65,7 @@ I employed minimal props drilling in this small project, as my primary aim was t
 ## Author
 
 - Website - [Miller Arias](https://portafolio-miller-arias.vercel.app)
-- Frontend Mentor - [@Miller1999](hhttps://www.frontendmentor.io/profile/Miller1999)
+- Frontend Mentor - [@Miller1999](https://www.frontendmentor.io/profile/Miller1999)
 - Twitter - [@miller_arias](https://twitter.com/miller_arias)
 - Github - [@Miller1999](https://github.com/Miller1999)
 
